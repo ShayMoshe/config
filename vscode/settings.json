@@ -1,0 +1,16 @@
+{
+    "typescript.check.tscVersion": false,
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\Bin\\bash.exe",
+    "window.zoomLevel": 0,
+    "autoimport.showNotifications": true,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressUpdateNotice": true,
+        "suppressWelcomeNotice": false
+    }
+}
