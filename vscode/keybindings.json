@@ -1,0 +1,36 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    {
+        "key": "alt+`",
+        "command": "workbench.action.terminal.focus"
+    },
+    {
+        "key": "shift+",
+        "command": "workbench.action.focusPanel"
+    },
+    {
+        "key": "ctrl+]",
+        "command": "workbench.action.terminal.focusNext"
+    },
+    {
+        "key": "ctrl+[",
+        "command": "workbench.action.terminal.focusPrevious"
+    },
+    { 
+        "key": "ctrl+`", 
+        "command": "workbench.action.terminal.focus"
+    },
+    { 
+        "key": "ctrl+`", 
+        "command": "workbench.action.focusActiveEditorGroup", 
+        "when": "terminalFocus"},
+    {
+        "key": "shift+alt+`",
+        "command": "workbench.action.terminal.kill"
+    },
+    {
+        "key": "ctrl+shift+t",
+        "command": "workbench.action.tasks.runTask",
+        "args": "runCurrentTest",
+    }
+]
