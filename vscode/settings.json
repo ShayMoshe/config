@@ -12,5 +12,6 @@
         "suppressNoRepositoryWarning": false,
         "suppressUpdateNotice": true,
         "suppressWelcomeNotice": false
-    }
+    },
+    "vim.useCtrlKeys": false
 }
